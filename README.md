@@ -5,12 +5,12 @@
 This project uses SQL to analyze the dataset of an online music store. The goal of the project is to answer a set of questions about the store's business performance and help in its growth by making better decisions.
 
 
-#Database and Tools
+# Database and Tools
 Postgre SQL
 PgAdmin4
 
 
-#Results
+# Results
 The results of the project are as follows:
 
 The most popular genre of music is "Rock".
